@@ -1,0 +1,6 @@
+streamlit==1.25.0
+tensorflow==2.13.0
+pandas
+matplotlib
+pyngrok
+python-dotenv
